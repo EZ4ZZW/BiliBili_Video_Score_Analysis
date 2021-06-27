@@ -53,6 +53,7 @@ for i in range(0, 104):
         favor.append(videoStat['favorite'])
         coins.append(videoStat['coin'])
         share.append(videoStat['share'])
+        # test
         like.append(videoStat['like'])
         cnt = cnt + 1
         
